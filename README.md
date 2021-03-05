@@ -7,4 +7,4 @@
 3) RNN
 4) FB-Prophet
 ## Future Work to improve on task
-Feature engineering, data augmentation, increase data size 
+Feature engineering, data augmentation, increase data size.
