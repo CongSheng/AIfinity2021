@@ -1,5 +1,5 @@
 # AIfinity2021
-Contain exploration of dataset and different architecture for time-series forecasting using Ebuy Data.
+Contain rough exploration of dataset and different architecture for time-series forecasting using Ebuy Data.
 ## Architecture Explored
 1) LSTM
 2) GRU
