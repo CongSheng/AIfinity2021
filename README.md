@@ -1,5 +1,6 @@
 # AIfinity2021
-Contain rough exploration of dataset and different architecture for time-series forecasting using Ebuy Data.
+"DataExplorationCS" Contain rough exploration of dataset and different architecture for time-series forecasting using Ebuy Data.
+"DataExploration_JX" done by @Jian Xian contain full script for training and testing for all fresh produce and outlets.
 ## Architecture Explored
 1) LSTM
 2) GRU
